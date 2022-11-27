@@ -34,6 +34,7 @@ I'm a full-stack developer building my skills and further understanding how to c
 <br/>
 
 <h3> 🔢 Stats </h3> 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazzilio&layout=compact)
 
 ![Mariam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mazzilio&show_icons=true&theme=gruvbox)
