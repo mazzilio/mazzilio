@@ -5,7 +5,11 @@
 <img align="center" alt="animated picture of person typing" width="450" src="https://i.pinimg.com/originals/79/48/0e/79480e87d9fcb11532f5fa7100f1644d.gif"/>
 </p>
 
+<p align="center">
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=200&size=15&duration=4000&pause=1000&color=F79DEC&background=FFFFFF00&center=true&width=435&lines=A+web+developer+learning+and+growing+their+skills!)](https://git.io/typing-svg)
+  
+</p>
 
 I'm a full-stack developer building my skills and further understanding how to create the most useful web apps one step at a time. My coding projects on this portfolio are built usually in a team or independently, with planning and design taken into consideration. I try to approach real-life problems or business issues with my projects to help make a lasting impact. You can learn more about me below and connect. 😊
 
