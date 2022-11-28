@@ -22,6 +22,14 @@ I'm a full-stack developer building my skills and further understanding how to c
 - 🌱 I’m currently learning **TypeScript, Next.js**
 - 💬 Ask me about **React, HTML5, CSS, How to pivot into Tech**
 
+<details open> 
+  <summary><h2>📕  Past & Current Projects </h2></summary>
+  <p align="left">
+    <a href="https://github.com/mazzilio/mazzilio.github.io"><img width="278" src="https://mazzilio-github-readme-stats.vercel.app/api/pin/?username=mazzilio&repo=mazzilio.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Biscuits Website"></a>
+    <a href="https://github.com/mazzilio/CFG-Requisit-Project"><img width="278" src="https://mazzilio-github-readme-stats.vercel.app/api/pin/?username=mazzilio&repo=CFG-Requisit-Project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="shields"></a>
+  </p>
+</details>
+
 <details>
 <summary><h3 align="center">🧰 Languages and Tools</h3></summary>
 
@@ -71,13 +79,11 @@ I'm a full-stack developer building my skills and further understanding how to c
 
 <h3> 🔢 Stats </h3> 
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mazzilio's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mazzilio&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mazzilio's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazzilio&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mazzilio's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mazzilio&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&hide_border=true" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mazzilio's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazzilio&langs_count=8&layout=compact&theme=jolly&hide_border=true" height="192px"/></a>
   <br/>
 
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mazzilio's streak" src="https://streak-stats.demolab.com/?user=mazzilio&theme=monokai-metallian&hide_border=true" align="center"/> 
-
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<b> Please note:</b> My top languages used are a reflection of my public code consists and doesn't reflect the work I do in my current role.
 
 ---
 <details>
