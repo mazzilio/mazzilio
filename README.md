@@ -25,8 +25,7 @@ I'm a full-stack developer building my skills and further understanding how to c
 <details open> 
   <summary><h2>📕  Past & Current Projects </h2></summary>
   <p align="left">
-    <a href="https://github.com/mazzilio/mazzilio.github.io"><img width="278" src="https://mazzilio-github-readme-stats.vercel.app/api/pin/?username=mazzilio&repo=mazzilio.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Biscuits Website"></a>
-    <a href="https://github.com/mazzilio/CFG-Requisit-Project"><img width="278" src="https://mazzilio-github-readme-stats.vercel.app/api/pin/?username=mazzilio&repo=CFG-Requisit-Project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="shields"></a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=/mazzilio&repo=CFG-Requisit-Project)](https://github.com/mazzilio/CFG-Requisit-Project)
   </p>
 </details>
 
