@@ -42,7 +42,6 @@ I'm a full-stack developer building my skills and further understanding how to c
   <h3>🧰 Frameworks </h3>
   <p>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-      <a href="#"><img alt="Electron" src="https://img.shields.io/badge/Electron-20232e.svg?logo=electron&logoColor=white"></a>
       <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
       <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
       <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
@@ -74,7 +73,7 @@ I'm a full-stack developer building my skills and further understanding how to c
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazzilio&layout=compact)
 
-![Mariam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mazzilio&show_icons=true&theme=gruvbox)
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mazzilio's streak" src="https://streak-stats.demolab.com/?user=mazzilio&theme=monokai-metallian&hide_border=true"/>
 ---
 <details>
 <summary><h3>My coding Journey</h3></summary>
