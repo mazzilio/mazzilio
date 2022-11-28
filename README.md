@@ -27,7 +27,7 @@ I'm a full-stack developer building my skills and further understanding how to c
   <p align="left">
     
     
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=/mazzilio&repo=CFG-Requisit-Project)](https://github.com/mazzilio/CFG-Requisit-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mazzilio&repo=CFG-Requisit-Project)](https://github.com/mazzilio/CFG-Requisit-Project)
     
     
   </p>
