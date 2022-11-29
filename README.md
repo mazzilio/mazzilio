@@ -18,9 +18,10 @@ I'm a full-stack developer building my skills and further understanding how to c
 ---
 <!--- My YouTube Stats to insert later-->
 
-- 🔭 I’m currently working on **[Lazy Sundae](https://github.com/msabrii/LazySundae)** - *a Content Management System for a local ice cream parlour*
+- 🔭 I’m currently working on **[Lazy Sundae](https://github.com/msabrii/LazySundae)** - *a Content Management System personal project for a local ice cream parlour*
 - 🌱 I’m currently learning **TypeScript, Next.js**
 - 💬 Ask me about **React, HTML5, CSS, How to pivot into Tech**
+- Working on private client work :)
 
 <details open> 
   <summary><h2>📕  Past & Current Projects </h2></summary>
