@@ -25,7 +25,7 @@ I'm a full-stack developer building my skills and further understanding how to c
 <details open> 
   <summary><h2>📕  Past & Current Projects </h2></summary>
   <p align="left">
-<a href="https://github.com/mazzilio/CFG-Requisit-Project"><img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=mazzilio&repo=CFG-Requisit-Project&theme=shades-of-purple&hide_border=true&show_icons=false" alt="Requisit Project Pin"/></a><a href="https://github.com/mazzilio/mazzilio.github.io"><img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=mazzilio&repo=mazzilio.github.io&theme=shades-of-purple&hide_border=true&show_icons=false" alt="Biscuits Project Pin"/></a>
+<a href="https://github.com/mazzilio/CFG-Requisit-Project"><img height="100" src="https://mazzilio-github-readme-stats.vercel.app/api/pin/?username=mazzilio&repo=CFG-Requisit-Project&theme=shades-of-purple&hide_border=true&show_icons=false" alt="Requisit Project Pin"/></a><a href="https://mazzilio-github.com/mazzilio/mazzilio.github.io"><img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=mazzilio&repo=mazzilio.github.io&theme=shades-of-purple&hide_border=true&show_icons=false" alt="Biscuits Project Pin"/></a>
   </p>
 </details>
 
