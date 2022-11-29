@@ -83,7 +83,7 @@ I'm a full-stack developer building my skills and further understanding how to c
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mazzilio's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazzilio&langs_count=8&layout=compact&theme=jolly&hide_border=true" height="192px"/></a>
   <br/>
 
-<b> Please note:</b> My top languages used are a reflection of my public code consists and doesn't reflect the work I do in my current role.
+<b> Please note:</b> My top languages used are a reflection of my public code and doesn't reflect the work I do in my current role as a Software Engineer.
 
 ---
 <details>
