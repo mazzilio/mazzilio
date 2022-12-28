@@ -11,7 +11,6 @@ I'm a full-stack developer building my skills and further understanding how to c
 
 <!---Social Icons-->
 <p align="center">
-  <a href="https://www.youtube.com/@mazzilio"><img width="50px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;<a href="https://www.tiktok.com/@mazzilio"><img width="50px" alt="TikTok" title="TikTok" src="https://i.pinimg.com/originals/cd/b2/c6/cdb2c643b306031bef230c8eb82dde6d.jpg"/></a>
  </a>&#8287;&#8287;&#8287;&#8287;&#8287;<a href="https://www.linkedin.com/in/mariamhusse1n/"><img width="50px" alt="LinkedIn" title="LinkedIn" src="https://cdn3.iconfinder.com/data/icons/round-pink-icons-set/256/social_media_round_icons_pink_color_set_256x256_0010_linkedin.png"/></a>
 </p>
 
