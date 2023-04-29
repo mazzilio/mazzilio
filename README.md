@@ -27,8 +27,8 @@ I'm a full-stack developer building my skills and further understanding how to c
   <p align="center">
 <a href="https://github.com/mazzilio/CFG-Requisit-Project"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=mazzilio&repo=CFG-Requisit-Project&theme=shades-of-purple&hide_border=true" alt="Requisit Project Pin"/></a>
 <a href="https://github.com/mazzilio/mazzilio.github.io"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=mazzilio&repo=mazzilio.github.io&theme=shades-of-purple&hide_border=true" alt="Biscuits Project Pin"/></a>
-<a href="https://github.com/mazzilio/mazzilio-content-kit"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=mazzilio&repo=mazzilio-content-kit.github.io&theme=shades-of-purple&hide_border=true" alt="mazzilio - Engineer & Creator."/></a>
-  </p>
+<!-- <a href="https://github.com/mazzilio/mazzilio-content-kit"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=mazzilio&repo=mazzilio-content-kit.github.io&theme=shades-of-purple&hide_border=true" alt="mazzilio - Engineer & Creator."/></a>
+  </p> -->
 </details>
 
 <details>
