@@ -33,6 +33,7 @@ I'm a full-stack developer building my skills and further understanding how to c
   </p>
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mazzilio&repo=finance-dashboard)]
+  
 </details>
 
 <details>
