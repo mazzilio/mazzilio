@@ -1,4 +1,3 @@
-
 <h1 align="center">🌸 Mariam 🌸</h1> 
 <!--- About Me-->
 <p align="center">
@@ -6,7 +5,7 @@
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=200&size=15&duration=4000&pause=1000&color=F79DEC&background=FFFFFF00&center=true&width=435&lines=A+web+developer+learning+and+growing+their+skills!)](https://git.io/typing-svg)
-                       
+
 I'm a full-stack developer building my skills and further understanding how to create the most useful web apps one step at a time. My coding projects on this portfolio are built usually in a team or independently, with planning and design taken into consideration. I try to approach real-life problems or business issues with my projects to help make a lasting impact. You can learn more about me below and connect. 😊
 
 <!---Social Icons-->
@@ -15,25 +14,24 @@ I'm a full-stack developer building my skills and further understanding how to c
 </p>
 
 ---
+
 <!--- My YouTube Stats to insert later-->
 
-- 🔭 I'm currently working on a **Zelda Breath of the Wild Recipe CookBook** - *an interactive way for you to record your ingredients and see what recipes you can make with them on BOTW!*
-- 🌱 I’m currently learning **TypeScript, Next.js**
-- 💬 Ask me about **React, HTML5, CSS, How to pivot into Tech**
-- Working on private client work :)
+-   🔭 I'm currently working on a **Zelda Breath of the Wild Recipe CookBook** - _an interactive way for you to record your ingredients and see what recipes you can make with them on BOTW!_
+-   🌱 I’m currently learning **TypeScript, Next.js**
+-   💬 Ask me about **React, HTML5, CSS, How to pivot into Tech**
+-   Working on private client work :)
 
 <details open> 
   <summary><h2>📕  Past & Current Projects </h2></summary>
+  These are my oldest to newest projects and sites!
   <p align="center">
+  <a href="https://github.com/mazzilio/mazzilio.github.io"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=mazzilio&repo=mazzilio.github.io&theme=shades-of-purple&hide_border=true" alt="Biscuits Project Pin"/></a>
 <a href="https://github.com/mazzilio/CFG-Requisit-Project"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=mazzilio&repo=CFG-Requisit-Project&theme=shades-of-purple&hide_border=true" alt="Requisit Project Pin"/></a>
-<a href="https://github.com/mazzilio/mazzilio.github.io"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=mazzilio&repo=mazzilio.github.io&theme=shades-of-purple&hide_border=true" alt="Biscuits Project Pin"/></a>
-<!-- <a href="https://github.com/mazzilio/mazzilio-content-kit"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=mazzilio&repo=mazzilio-content-kit.github.io&theme=shades-of-purple&hide_border=true" alt="mazzilio - Engineer & Creator."/></a>
-    
-<a href="https://github.com/mazzilio/finance-dashboard"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=mazzilio&repo=finance-dashboard.github.io&theme=shades-of-purple&hide_border=true" alt="mazzilio - Engineer & Creator."/></a> -->
+<a href="https://github.com/mazzilio/finance-dashboard"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=mazzilio&repo=mazzilio-content-kit&theme=shades-of-purple&hide_border=true" alt="mazzilio - Engineer & Creator."/></a> 
+<a href="https://github.com/mazzilio/finance-dashboard"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=mazzilio&repo=finance-dashboard&theme=shades-of-purple&hide_border=true" alt="mazzilio's Finance Dashboard"/></a> 
   </p>
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mazzilio&repo=finance-dashboard)]
-  
 </details>
 
 <details>
@@ -81,15 +79,16 @@ I'm a full-stack developer building my skills and further understanding how to c
 
 ---
 
-<h3> 🔢 Stats </h3> 
+<h3> 🔢 Stats </h3>
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mazzilio's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mazzilio&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&hide_border=true" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mazzilio's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazzilio&langs_count=8&layout=compact&theme=jolly&hide_border=true" height="192px"/></a>
-  <br/>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mazzilio's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazzilio&langs_count=8&layout=compact&theme=jolly&hide_border=true" height="192px"/></a>
+<br/>
 
 <b> Please note:</b> My top languages used are a reflection of my public code and doesn't reflect the work I do in my current role as a Software Engineer.
 
 ---
+
 <details>
 <summary><h3>My coding Journey</h3></summary>
 My coding journey started in December 2021, where I made my very first simple website on freeCodeCamp. Fast forward to December 2022, I am now working as a full-time software engineer and developing my skill more and more everyday.
