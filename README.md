@@ -26,12 +26,12 @@ I'm a full-stack developer building my skills and further understanding how to c
   <summary><h2>📕  Past & Current Projects </h2></summary>
   These are my oldest to newest projects and sites!
   <p align="center">
-  <a href="https://github.com/mazzilio/mazzilio.github.io"><img height="150" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=mazzilio&repo=mazzilio.github.io&theme=shades-of-purple&hide_border=true" alt="Biscuits Project Pin"/></a>
-<a href="https://github.com/mazzilio/CFG-Requisit-Project"><img height="150" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=mazzilio&repo=CFG-Requisit-Project&theme=shades-of-purple&hide_border=true" alt="Requisit Project Pin"/></a>
+  <a href="https://github.com/mazzilio/mazzilio.github.io"><img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=mazzilio&repo=mazzilio.github.io&theme=shades-of-purple&hide_border=true" alt="Biscuits Project Pin"/></a>
+<a href="https://github.com/mazzilio/CFG-Requisit-Project"><img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=mazzilio&repo=CFG-Requisit-Project&theme=shades-of-purple&hide_border=true" alt="Requisit Project Pin"/></a>
      </p>
    <p align="center">
-<a href="https://github.com/mazzilio/finance-dashboard"><img height="150" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=mazzilio&repo=mazzilio-content-kit&theme=shades-of-purple&hide_border=true" alt="mazzilio - Engineer & Creator."/></a> 
-<a href="https://github.com/mazzilio/finance-dashboard"><img height="150" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=mazzilio&repo=finance-dashboard&theme=shades-of-purple&hide_border=true" alt="mazzilio's Finance Dashboard"/></a> 
+<a href="https://github.com/mazzilio/finance-dashboard"><img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=mazzilio&repo=mazzilio-content-kit&theme=shades-of-purple&hide_border=true" alt="mazzilio - Engineer & Creator."/></a> 
+<a href="https://github.com/mazzilio/finance-dashboard"><img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=mazzilio&repo=finance-dashboard&theme=shades-of-purple&hide_border=true" alt="mazzilio's Finance Dashboard"/></a> 
   </p>
 
 </details>
