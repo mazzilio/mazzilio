@@ -30,8 +30,8 @@ I'm a full-stack developer building my skills and further understanding how to c
 <a href="https://github.com/mazzilio/CFG-Requisit-Project"><img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=mazzilio&repo=CFG-Requisit-Project&theme=shades-of-purple&hide_border=true" alt="Requisit Project Pin"/></a>
      </p>
    <p align="center">
-<a href="https://github.com/mazzilio/finance-dashboard"><img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=mazzilio&repo=mazzilio-content-kit&theme=shades-of-purple&hide_border=true" alt="mazzilio - Engineer & Creator."/></a> 
 <a href="https://github.com/mazzilio/finance-dashboard"><img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=mazzilio&repo=finance-dashboard&theme=shades-of-purple&hide_border=true" alt="mazzilio's Finance Dashboard"/></a> 
+<a href="https://github.com/mazzilio/gpt-pdf-chatbot"><img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=mazzilio&repo=gpt-odf-chatbot&theme=shades-of-purple&hide_border=true" alt="mazzilio's PDFBot"/></a> 
   </p>
 
 </details>
