@@ -31,7 +31,6 @@ I'm a full-stack developer building my skills and further understanding how to c
      </p>
    <p align="center">
 <a href="https://github.com/mazzilio/finance-dashboard"><img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=mazzilio&repo=finance-dashboard&theme=shades-of-purple&hide_border=true" alt="mazzilio's Finance Dashboard"/></a> 
-    
 <a href="https://github.com/mazzilio/gpt-pdf-chatbot"><img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=mazzilio&repo=gpt-pdf-chatbot&theme=shades-of-purple&hide_border=true" alt="mazzilio's PDFBot"/></a> 
   </p>
 
