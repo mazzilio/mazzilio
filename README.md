@@ -31,7 +31,8 @@ I'm a full-stack developer building my skills and further understanding how to c
      </p>
    <p align="center">
 <a href="https://github.com/mazzilio/finance-dashboard"><img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=mazzilio&repo=finance-dashboard&theme=shades-of-purple&hide_border=true" alt="mazzilio's Finance Dashboard"/></a> 
-<a href="https://github.com/mazzilio/gpt-pdf-chatbot"><img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=mazzilio&repo=gpt-odf-chatbot&theme=shades-of-purple&hide_border=true" alt="mazzilio's PDFBot"/></a> 
+    
+<a href="https://github.com/mazzilio/gpt-pdf-chatbot"><img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=mazzilio&repo=gpt-pdf-chatbot&theme=shades-of-purple&hide_border=true" alt="mazzilio's PDFBot"/></a> 
   </p>
 
 </details>
@@ -93,4 +94,4 @@ I'm a full-stack developer building my skills and further understanding how to c
 
 <details>
 <summary><h3>My coding Journey</h3></summary>
-My coding journey started in December 2021, where I made my very first simple website on freeCodeCamp. Fast forward to December 2022, I am now working as a full-time software engineer and developing my skill more and more everyday.
+My coding journey started in December 2021, where I made my very first simple website on freeCodeCamp. Fast forward to now, I am now working as a full-time software engineer and developing my skill more and more everyday.
